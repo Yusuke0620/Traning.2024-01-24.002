@@ -60,7 +60,7 @@ header
 -------------------------------------------*/
 #header {
     background-color: pink;
-    background-image: url(mainvisual.jpg");
+    background-image: url("mainvisual.jpg");
     background-position: center top;
     background-size: cover;
     min-height: 100vh;
@@ -121,7 +121,7 @@ magazine
 fashion
 -------------------------------------------*/
 #fashion {
-    background-image: url(fashion.jpg");
+    background-image: url("fashion.jpg");
     background-position: center top;
     background-size: cover;
     height: 520px;
